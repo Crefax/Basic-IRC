@@ -1,4 +1,4 @@
-# Basic-IRC
+# Simple IRC
 Node.js 16.6.2+
 
 # How to install
